@@ -89,3 +89,6 @@ def Copy_password():
 Button(root, text = 'COPY TO CLIPBOARD', command = Copy_password).pack(pady=5)
 
 - pyperclip.copy() used to copy the text to clipboard
+
+### Go to the given link to access the complete code <br>
+<a href="https://github.com/Py-geeks/Password-Generator">Password Generator</a>
